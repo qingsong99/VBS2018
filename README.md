@@ -14,9 +14,9 @@ If you use this is your system, please cite to this paper:
 
 + Library: httplib, BaseHTTPServer, numpy, pickle, json
 
-+ You need to download features which were extracted. Link download will be update after.
++ You need to download features which were extracted. [Here is link](https://drive.google.com/open?id=1nF8WNmwZA5EmAcpuBZnueAE7fYBw9vtC) (It has to be in CreateDatabase folder).
 
-## Useage:
+## Usage:
 
 First of all, we need to create database for Server. You need to execute run.sh in CreateDatabase folder.
 
