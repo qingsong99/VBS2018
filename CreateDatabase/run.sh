@@ -1,3 +1,4 @@
+unzip data.zip
 tar -xvzf msb.tgz
 python parseShot.py
 cat shot/* > shot.txt
